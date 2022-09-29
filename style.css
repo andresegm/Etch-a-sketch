@@ -12,3 +12,24 @@
     width: 30px;
     height:30px;
 }
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: salmon;
+}
+
+#reset{
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    font: 30px helvetica;
+    color: white;
+    background-color: rgb(71, 155, 228);
+    border-width: 0px;
+    padding: 15px;
+    border-radius: 20px;
+}
